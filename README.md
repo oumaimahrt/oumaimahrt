@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![ohrete's 42 stats](https://badge.mediaplus.ma/greenbinary/ohrete)](https://github.com/oakoudad/badge42)
 <!--
 **oumaimahrt/oumaimahrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
