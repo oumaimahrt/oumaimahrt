@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello world 👋,
+Welcome to my LinkedIn profile! I'm OUMAIMA, a passionate software engineer dedicated to crafting innovative solutions and pushing the boundaries of technology. With a strong foundation in software development and a commitment to lifelong learning, I thrive on turning ideas into reality. 
 
 [![ohrete's 42 stats](https://badge.mediaplus.ma/greenbinary/ohrete)](https://github.com/oakoudad/badge42)
 <!--
